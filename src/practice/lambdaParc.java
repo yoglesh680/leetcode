@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class LembdaPrac {
+public class lambdaParc {
 	public static void main(String args[]) {
 
 		List<Integer> list = new ArrayList<>();

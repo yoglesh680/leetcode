@@ -3,7 +3,7 @@ package practice;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class LembdaChar {
+public class lambdaChar {
 	@SuppressWarnings("static-access")
 	public static void main(String args[]) {
 		String str = "This is a what We WANTED to hava gUN with bullETS";
